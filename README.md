@@ -9,3 +9,4 @@ With GPT 4, you may now directly use the following GPT developed by me to conduc
 https://gptstore.ai/gpts/mrgtVPSEgp-topic-modeler-pro
 
 If you have any questions, you can contact me shubin.yu@bi.no
+Visit http://GAIforResearch.com for more tutorials.
